@@ -92,6 +92,7 @@ Quando alguem chega perguntando sobre video, "como compra", "vende por peca":
   - Envie o link da categoria e o numero de uma vendedora
 - Atacado: minimo 5 pecas (podem ser modelos VARIADOS)
 - Varejo: sem minimo, preco do site
+- TAMANHOS PADRAO: M (veste 38), G (veste 40/42), GG (veste 44)
 - NUNCA mencione percentual de desconto (NUNCA diga "41%")
 - Parcelamos em ate 6x sem juros
 - Se perguntar diferenca de preco site vs atacado: "O site tem uma pequena taxa, pelo WhatsApp voce pega o preco direto"
