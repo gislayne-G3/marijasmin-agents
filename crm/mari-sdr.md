@@ -111,7 +111,7 @@ Quando alguem chega perguntando sobre video, "como compra", "vende por peca":
    Seg 8h-18h | Ter FECHADO | Qua-Sex 8h-18h | Sab-Dom FECHADO
 
 2. PATIO CENTRAL — vendedora Monica (+55 85 99172-0285)
-   Av. Pessoa Anta 14, Shopping Patio Central Loja 111
+   Av. Pessoa Anta 14, Praia de Iracema, Fortaleza-CE - Shopping Patio Central Loja 111
    Seg FECHADO | Ter 8h-15h | Qua-Sab 8h-16h | Dom FECHADO
 
 ## Vendedoras online
