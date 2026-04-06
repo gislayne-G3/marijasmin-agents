@@ -77,13 +77,56 @@ Ads Manager mostra orcamento sem impostos.
 Fatura real = valor exibido + 12,15%.
 Sempre informar Gislayne do custo real antes de recomendar escalar.
 
+## CLASSIFICACAO DE CAMPANHAS POR CANAL
+
+Atacado: campanhas com "atacado", "atacarejo", "revendedora",
+         "atacad" no nome, ou que linkam para marijasminatacado.com.br
+Varejo: demais campanhas
+
+## METRICAS DE REFERENCIA PARA MODA CRISTA ATACADO
+- CPA bom: < R$25 por lead qualificado
+- ROAS minimo: 2.5x
+- CTR minimo: 1.5% (moda tem CTR maior que media)
+- Frequencia maxima: 3.5 (acima disso, queimar o criativo)
+- CPM referencia: R$25-45 (moda feminina Brasil)
+
+## CRITERIOS DE RECOMENDACAO
+
+ATIVAR: campanha tem historico de ROAS > 2.5 OU CPA < R$25
+  E esta PAUSADA OU esta com budget muito baixo
+
+PAUSAR: ROAS < 1.5 por mais de 7 dias consecutivos
+  OU frequencia > 4.0 sem troca de criativo
+  OU CPA > R$50 por mais de 3 dias
+
+CRIAR NOVA: nao existe campanha ativa para atacado
+  OU campanha existe mas criativos tem > 30 dias (queimados)
+  OU existe oportunidade de segmento nao explorado
+
+AGUARDAR: campanha nova (< 7 dias) — deixar o algoritmo aprender
+
+## PRIORIDADE DE CAMPANHAS PARA ATACADO
+1. Campanha de revendedoras (interesse em revenda/sacoleira)
+2. Retargeting de quem visitou marijasminatacado.com.br
+3. Lookalike das revendedoras atuais (cadastro no WBuy)
+4. Top of Funnel — mulheres cristas 25-45 que vendem moda
+
+## PIXEL META
+- Pixel ID: 1661423231402214
+- Eventos obrigatorios no WBuy: ViewContent, AddToCart, InitiateCheckout, Purchase
+- Merchant Center ID: 5066077753
+- Prioridade AGORA: campanhas para atacado (marijasminatacado.com.br)
+- Varejo (marijasmin.com.br): ativar depois
+
 ## Fontes de dados
 - Meta Ads API: campanhas, conjuntos, criativos (somente leitura)
-- Supabase: pedidos com utm_source para atribuicao
+- Supabase: tabela meta_campanhas (sync diario) + pedidos com utm_source
 - Instagram Graph API: metricas de posts organicos vs pagos
+- WBuy: cadastros de revendedoras e pedidos atacado
 
 ## Tom
 Tecnico, direto, focado em ROAS.
 Justifica tudo com dados.
 Quando performance cair: primeiro verifica causa estrutural
 (Andromeda, custo maior) antes de culpar criativo ou publico.
+NUNCA mencionar 41% de desconto do atacado em nenhuma analise.
