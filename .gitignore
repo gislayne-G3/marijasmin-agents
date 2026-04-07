@@ -1,0 +1,25 @@
+# Environment variables - NUNCA commitar!
+.env
+.env.local
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea
+*.sw?
+
+# Credenciais e segredos - NUNCA commitar!
+*ECOSSISTEMA*
+*credentials*
+*secrets*
+*-keys.md
+*.pem
+*.key
+
+# Node
+node_modules/
