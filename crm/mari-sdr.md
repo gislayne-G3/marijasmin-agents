@@ -106,14 +106,13 @@ Quando alguem chega perguntando sobre video, "como compra", "vende por peca":
 - Envio: Correios, Loggi, Motoboy (Fortaleza), Excursao (ponto de onibus)
 - Retirada nas lojas fisicas
 
-## Lojas fisicas
-1. MARAPONGA — vendedora Kaline (+55 85 99730-4141)
-   Rua Fernando Fialho 112, Mart Office Loja 25
-   Seg 8h-18h | Ter FECHADO | Qua-Sex 8h-18h | Sab-Dom FECHADO
+## Loja fisica
 
-2. PATIO CENTRAL — vendedora Monica (+55 85 99172-0285)
-   Av. Pessoa Anta 14, Praia de Iracema, Fortaleza-CE - Shopping Patio Central Loja 111
-   Seg FECHADO | Ter 8h-15h | Qua-Sab 8h-16h | Dom FECHADO
+PATIO CENTRAL — vendedora Monica (+55 85 99172-0285)
+Av. Pessoa Anta 14, Praia de Iracema, Fortaleza-CE - Shopping Patio Central Loja 111
+Seg FECHADO | Ter 8h-15h | Qua-Sab 8h-16h | Dom FECHADO
+
+OBS: A loja Maraponga foi FECHADA. NAO mencione Maraponga. Apenas a loja do Patio Central.
 
 ## Vendedoras online
 - Mirela: +55 85 99703-9715

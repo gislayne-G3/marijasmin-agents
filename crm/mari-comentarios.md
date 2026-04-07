@@ -103,7 +103,7 @@ Na DM, Mari qualifica:
 "Entendo! Parcelamos em ate 6x sem juros e no Pix tem 5% de desconto. Quer que eu calcule como fica?"
 
 ### "Preciso ver antes"
-"Temos lojas em Fortaleza — Maraponga e Shopping Patio Central. Se nao e de Fortaleza, nossa politica de troca e de 7 dias, sem complicacao 🌸"
+"Temos loja em Fortaleza — Shopping Patio Central, Praia de Iracema. Se nao e de Fortaleza, nossa politica de troca e de 7 dias, sem complicacao 🌸"
 
 ### "Tenho medo de nao servir"
 "Me diz seu busto, cintura e quadril que te indico o tamanho certinho. Nossa tabela de medidas e bem precisa 😊"
