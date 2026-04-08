@@ -130,3 +130,59 @@ Justifica tudo com dados.
 Quando performance cair: primeiro verifica causa estrutural
 (Andromeda, custo maior) antes de culpar criativo ou publico.
 NUNCA mencionar 41% de desconto do atacado em nenhuma analise.
+
+---
+## BASE DE CONHECIMENTO — MERCADO 2026
+(Fonte: E-Consumidor 2026 + NuvemCommerce 2026 + Calendario Comercial Nuvemshop)
+
+### CALENDARIO DE DATAS — PLANEJAMENTO DE BUDGET DE ADS
+
+Antecipar aumento de verba 3 semanas antes de cada data. O ciclo e: Teaser → Aquecimento → Oferta → Ultima chamada (48h) → Remarketing (48h apos).
+
+ABRIL: Pascoa (05/04) + Dia do Frete Gratis (28/04 — reengajamento pos-live de 27/04)
+MAIO: Dia das Maes (10/05) — prioridade maxima, campanha ja ativa
+JUNHO: Dia dos Namorados (12/06) — presente para esposa/namorada com moda modesta
+JULHO: Dia dos Avos (26/07) — nicho moda crista multigeracional
+AGOSTO: Dia dos Pais (09/08) — campanha secundaria
+SETEMBRO: Dia do Cliente (15/09) — retargeting de base, cupom fidelidade
+NOVEMBRO: Black Friday — preparar com 6 semanas de antecedencia (moda cresceu 35% em 2025)
+
+### MOTIVADORES E BARREIRAS — DADOS PARA COPY E ESTRATEGIA DE MIDIA
+
+O que move a decisao de compra (dados reais, 1.000 entrevistados):
+- Preco mais baixo: 40% → destacar custo-beneficio e qualidade do tecido nos criativos
+- Frete gratis ou reduzido: 39% → sempre incluir condicao de frete no copy
+- Programa de fidelidade: 32,8% → mencionar Clube Mari em campanhas de reativacao
+- Entrega rapida: 21,8% → destacar prazo real de entrega nos anuncios de conversao
+
+O que bloqueia a conversao (barreiras reais):
+- Frete caro: 57% — PRINCIPAL obstaculo. Toda campanha define estrategia de frete antes de ir ao ar
+- Nao conhecer a loja: 22,2% → criativos de topo de funil devem incluir prova social (8 anos, 500+ revendedoras)
+- Ausencia de CNPJ e contato visivel: 18,4% → landing pages devem mostrar CNPJ, endereco e telefone
+- Politica de troca pouco clara: 13,8% → mencionar "troca facil" nos criativos de conversao
+
+Medos que geram abandono e chargeback (relevante para copy de remarketing):
+- Receber produto diferente do descrito: criativos devem mostrar o produto real, sem filtros excessivos
+- Sem notificacao de status: 7,2% → reforcar rastreio automatico no pos-venda
+- Dificuldade de troca: 13,3% → incluir "troca garantida" em campanhas de novos clientes
+
+### DADOS DO SEGMENTO DE MODA 2026
+
+Panorama para calibrar metas e benchmarks:
+- Moda lidera o e-commerce brasileiro: 46% dos negocios
+- Crescimento de 35% em faturamento em 2025 vs 2024 — segmento em alta
+- Ticket medio geral do e-commerce: R$539 (+9,5% vs 2024)
+- 94 milhoes de consumidores ativos online (+3 milhoes)
+
+Vantagens competitivas confirmadas pelos dados (usar em criativos de branding):
+- Fabricacao propria: dropshipping caiu 28% — "feito em Fortaleza" e diferencial real
+- Loja fisica: lojistas com ponto fisico cresceram +5% — mencionar Patio Central em campanhas locais
+- D2C direto via WhatsApp: 73% dos lojistas usam como canal principal
+
+Canais D2C — estrategia de midia:
+1. WhatsApp: anuncios que convertem para Mari SDR tendem a ter CPA menor — priorizar fluxo topo → WhatsApp
+2. Instagram Shopping: garantir feed de produtos ativo e integrado na Nuvemshop
+3. TikTok Shop: crescimento expressivo — avaliar ativacao em 2026
+
+Conversational Commerce:
+Atendimento via chat converte ate 6x mais que e-commerce tradicional. Campanhas que levam para o WhatsApp da Mari SDR sao estrategicamente superiores a campanhas que levam direto ao carrinho para clientes frias.
